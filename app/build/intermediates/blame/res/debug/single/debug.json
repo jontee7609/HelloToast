@@ -64,12 +64,12 @@
         "source": "C:\\Users\\TARUC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\33e173908188c1a9f24afde7670e31a3\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
-        "source": "C:\\Users\\TARUC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\33e173908188c1a9f24afde7670e31a3\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\TARUC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\33e173908188c1a9f24afde7670e31a3\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\TARUC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\33e173908188c1a9f24afde7670e31a3\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -466,10 +466,6 @@
     {
         "merged": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\TARUC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\33e173908188c1a9f24afde7670e31a3\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge_activity_main.xml.flat",
-        "source": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\src\\main\\res\\layout-xlarge\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
@@ -1118,6 +1114,10 @@
     {
         "merged": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\TARUC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\33e173908188c1a9f24afde7670e31a3\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_activity_main.xml.flat",
+        "source": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\TARUC\\Desktop\\HelloToast\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
